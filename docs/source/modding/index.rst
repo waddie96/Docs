@@ -3,7 +3,7 @@ Modding
 =======
 
 .. warning::
-    Read :doc:`this list </modding/Workflow/Best-Practices>` of things that that can break your mod and/or people their game!
+    Read :doc:`this list </modding/Workflow/Best-Practices>` of things that can break your mod and/or players' game!
 
 .. toctree::
     :maxdepth: 3
